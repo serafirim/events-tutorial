@@ -1,0 +1,2 @@
+## React Boilerplate Clean
+My code that I wrote after learning from a post on DigitalOcean about sharing state across react components with context. This is vital to the survival as a React developer. What spawned me onto what to learn this is, a product I am working on, MERNStackStarter, has states and I was confused about what was going on.
