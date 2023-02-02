@@ -12,3 +12,7 @@
 	2023-02-01		Version 1.0.0
 
 				The code is born!
+
+	2023-02-01		Version 1.0.1
+
+				Finished tutorial...meh
