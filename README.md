@@ -1,2 +1,2 @@
-## React Boilerplate Clean
+## Handle DOM and Window Events with React Tutorial
 My code that I wrote after learning from [a post on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-handle-dom-and-window-events-with-react) about handling DOM and Window Events with React. This is vital to the survival as a React developer. What spawned me onto what to learn this is, a product I am working on, [MERNStackStarter](https://github.com/serafirim?tab=repositories), has states and I was confused about what was going on.
